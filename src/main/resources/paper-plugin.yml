@@ -1,0 +1,4 @@
+name: qTradeTags
+version: '${project.version}'
+main: gg.quartzdev.qtradetags.qTradeTags
+api-version: '1.20'

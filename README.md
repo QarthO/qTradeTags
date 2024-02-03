@@ -17,7 +17,7 @@
 
 ---
 
-### Minecraft Paper Plugin - Add NBT Tags to all items traded from a villager
+### Adds NBT Tags to all items traded from a villager
 
 ---
 <h3> Tested Versions </h3>

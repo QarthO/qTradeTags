@@ -38,6 +38,8 @@ public class TradeListener implements Listener {
             return;
         }
 
+
+
         List<MerchantRecipe> recipes = new ArrayList<>();
         for(MerchantRecipe recipe : merchantInventory.getMerchant().getRecipes()){
             recipes.add(markRecipe(recipe));
